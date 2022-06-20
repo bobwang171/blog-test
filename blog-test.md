@@ -24,5 +24,6 @@ int main(void)
 printf("Hello, world!");
 
 return 0;
+}
 ```
 所有动物惊叹不已，长颈鹿得意地笑了。
